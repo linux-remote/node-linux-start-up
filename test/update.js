@@ -1,4 +1,4 @@
-const startUp = require('./index');
+const startUp = require('../index');
 startUp([
     {
         title: 'update',

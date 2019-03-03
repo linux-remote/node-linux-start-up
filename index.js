@@ -5,7 +5,7 @@ const NOTE_START = `# node-linux-start-up start`;
 const END_EXIT = 'exit 0';
 const childProcess = require('child_process');
 //const path = require('path');
-const MARK = 'LR_IS_START_UP=1';
+const MARK = 'IS_NODE_START_UP=1';
 //
 function init() {
     let raw, rawFilePath, content;
