@@ -1,5 +1,5 @@
 {
-  "name": "lr-sys-app-start-up",
+  "name": "node-linux-start-up",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/linux-remote/lr-sys-app-start-up.git"
+    "url": "https://github.com/linux-remote/node-linux-start-up.git"
   },
   "author": {
     "name": "dw"
@@ -23,6 +23,6 @@
   "email": "hezedu@hotmail.com",
   "description": "",
   "bugs": {
-    "url": "https://github.com/linux-remote/lr-sys-app-start-up/issues"
+    "url": "https://github.com/linux-remote/node-linux-start-up/issues"
   }
 }

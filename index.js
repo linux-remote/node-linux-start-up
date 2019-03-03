@@ -1,7 +1,7 @@
 const fs = require('fs');
 const rawFilePath1 = '/etc/rc.local';
 const rawFilePath2 = '/etc/rc.d/rc.local';
-const NOTE_START = `# lr-sys-app-start-up start`;
+const NOTE_START = `# node-linux-start-up start`;
 const END_EXIT = 'exit 0';
 const childProcess = require('child_process');
 //const path = require('path');
