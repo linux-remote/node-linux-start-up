@@ -1,0 +1,28 @@
+{
+  "name": "lr-sys-app-start-up",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "log",
+    "nodejs",
+    "split"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linux-remote/lr-sys-app-start-up.git"
+  },
+  "author": {
+    "name": "dw"
+  },
+  "license": "MIT",
+  "email": "hezedu@hotmail.com",
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/linux-remote/lr-sys-app-start-up/issues"
+  }
+}
